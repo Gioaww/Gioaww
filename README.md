@@ -25,6 +25,7 @@ Estudante de Ciência da Computação, focada na área de Análise de dados.
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 
 ### 🔗 Connect With Me
@@ -39,18 +40,13 @@ Estudante de Ciência da Computação, focada na área de Análise de dados.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Gioaww&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Gioaww&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Gioaww&bg_color=00000000&color=a855f7&line=a855f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
