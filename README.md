@@ -12,7 +12,7 @@
 
 Estudante de Ciência da Computação, focada na área de Análise de dados.
 
-🌱 &nbsp;I'm currently learning **Python (Pandas, NumPy e SciPy)**  
+🌱 &nbsp;I'm currently learning **Python (Pandas, NumPy, Matplotlib e SciPy)**  
 😄 &nbsp;Pronouns: **ela/dela**  
 ⚡ &nbsp;Fun fact: **Eu tenho mais tempo livre do que eu pensava...**
 
